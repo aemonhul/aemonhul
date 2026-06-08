@@ -100,14 +100,14 @@ func main() {
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HalutaDanil&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=HalutaDanil&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aemonhul&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aemonhul&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HalutaDanil&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aemonhul&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" height="170"/>
 
 </div>
 
@@ -126,7 +126,7 @@ func main() {
 
 ### 🤖 Automation
 
-[**Schedule Bot**](https://github.com/HalutaDanil/Schedule-bot)  
+[**Schedule Bot**](https://github.com/aemonhul/Schedule-bot)  
 Telegram bot for tutors: scheduling, materials, links via Google Sheets
 
 </td>
@@ -134,10 +134,10 @@ Telegram bot for tutors: scheduling, materials, links via Google Sheets
 
 ### 🐍 Python
 
-[**python-basics-1**](https://github.com/HalutaDanil/python-basics-1)  
+[**python-basics-1**](https://github.com/aemonhul/python-basics-1)  
 10 algorithmic tasks: vectors, palindromes, DP, parsers
 
-[**python-basics-2**](https://github.com/HalutaDanil/python-basics-2)  
+[**python-basics-2**](https://github.com/aemonhul/python-basics-2)  
 Multiprocessing exam simulation with live monitoring
 
 </td>
@@ -145,13 +145,13 @@ Multiprocessing exam simulation with live monitoring
 
 ### 🐘 SQL — Fundamentals
 
-[**sql-basics**](https://github.com/HalutaDanil/sql-basics)  
+[**sql-basics**](https://github.com/aemonhul/sql-basics)  
 SELECT, WHERE, JOIN, aggregates, GROUP BY
 
-[**sql-data-retrieval-1**](https://github.com/HalutaDanil/sql-data-retrieval-1)  
+[**sql-data-retrieval-1**](https://github.com/aemonhul/sql-data-retrieval-1)  
 All JOIN types, set operations, subqueries
 
-[**sql-data-retrieval-2**](https://github.com/HalutaDanil/sql-data-retrieval-2)  
+[**sql-data-retrieval-2**](https://github.com/aemonhul/sql-data-retrieval-2)  
 Window functions, recursive CTEs, analytics
 
 </td>
@@ -161,31 +161,31 @@ Window functions, recursive CTEs, analytics
 
 ### 🐘 SQL — Advanced
 
-[**sql-dml-operations**](https://github.com/HalutaDanil/sql-dml-operations)  
+[**sql-dml-operations**](https://github.com/aemonhul/sql-dml-operations)  
 INSERT, UPDATE, DELETE, upsert, transactions
 
-[**sql-views-snapshots**](https://github.com/HalutaDanil/sql-views-snapshots)  
+[**sql-views-snapshots**](https://github.com/aemonhul/sql-views-snapshots)  
 Views, materialized views, refresh strategies
 
-[**sql-triggers-functions**](https://github.com/HalutaDanil/sql-triggers-functions)  
+[**sql-triggers-functions**](https://github.com/aemonhul/sql-triggers-functions)  
 PL/pgSQL functions, triggers, cursors
 
-[**sql-transaction-isolation**](https://github.com/HalutaDanil/sql-transaction-isolation)  
+[**sql-transaction-isolation**](https://github.com/aemonhul/sql-transaction-isolation)  
 ACID, isolation levels, deadlocks, locks
 
-[**sql-index-optimization**](https://github.com/HalutaDanil/sql-index-optimization)  
+[**sql-index-optimization**](https://github.com/aemonhul/sql-index-optimization)  
 B-tree, Hash, GiST, GIN, BRIN indexes
 
-[**sql-olap-analytics**](https://github.com/HalutaDanil/sql-olap-analytics)  
+[**sql-olap-analytics**](https://github.com/aemonhul/sql-olap-analytics)  
 ROLLUP, CUBE, PIVOT, window frames
 
-[**sql-advanced-functions**](https://github.com/HalutaDanil/sql-advanced-functions)  
+[**sql-advanced-functions**](https://github.com/aemonhul/sql-advanced-functions)  
 Dynamic SQL, arrays, JSON, polymorphism
 
-[**sql-traveling-salesman**](https://github.com/HalutaDanil/sql-traveling-salesman)  
+[**sql-traveling-salesman**](https://github.com/aemonhul/sql-traveling-salesman)  
 TSP solved with recursive CTEs
 
-[**sql-data-warehouse**](https://github.com/HalutaDanil/sql-data-warehouse)  
+[**sql-data-warehouse**](https://github.com/aemonhul/sql-data-warehouse)  
 Data warehouse design, SCD, ETL
 
 </td>
@@ -193,16 +193,16 @@ Data warehouse design, SCD, ETL
 
 ### 🐧 Linux & DevOps
 
-[**linux-administration**](https://github.com/HalutaDanil/linux-administration)  
+[**linux-administration**](https://github.com/aemonhul/linux-administration)  
 Users, network, packages, editors
 
-[**linux-networking**](https://github.com/HalutaDanil/linux-networking)  
+[**linux-networking**](https://github.com/aemonhul/linux-networking)  
 DHCP, NAT, firewall, SSH tunneling
 
-[**linux-monitoring-v1**](https://github.com/HalutaDanil/linux-monitoring-v1)  
+[**linux-monitoring-v1**](https://github.com/aemonhul/linux-monitoring-v1)  
 Bash scripts for system monitoring
 
-[**linux-monitoring-v2**](https://github.com/HalutaDanil/linux-monitoring-v2)  
+[**linux-monitoring-v2**](https://github.com/aemonhul/linux-monitoring-v2)  
 Grafana + Prometheus dashboards
 
 </td>
@@ -210,7 +210,7 @@ Grafana + Prometheus dashboards
 
 ### 🤖 AI Workflows
 
-[**ai-agent-workflows**](https://github.com/HalutaDanil/ai-agent-workflows)  
+[**ai-agent-workflows**](https://github.com/aemonhul/ai-agent-workflows)  
 n8n automation with LLM integration
 
 </td>
@@ -230,12 +230,12 @@ n8n automation with LLM integration
 
 [![Email](https://img.shields.io/badge/danil@khaliuta.ru-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danil@khaliuta.ru)
 [![Telegram](https://img.shields.io/badge/@khaliutadanil-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/khaliutadanil)
-[![GitHub](https://img.shields.io/badge/HalutaDanil-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/HalutaDanil)
+[![GitHub](https://img.shields.io/badge/aemonhul-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aemonhul)
 
 </div>
 
 <div align="center">
 
-[![Profile Views](https://komarev.com/ghpvc/?username=HalutaDanil&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/HalutaDanil)
+[![Profile Views](https://komarev.com/ghpvc/?username=aemonhul&color=58a6ff&style=flat-square&label=Profile+Views)](https://github.com/aemonhul)
 
 </div>
